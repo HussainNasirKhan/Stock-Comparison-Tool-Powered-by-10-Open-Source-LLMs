@@ -1,6 +1,8 @@
 # Stock Comparison Tool Powered by 10 Open Source LLMs
 
-This repository contains a web application built with Flask that allows users to compare and visualize the historical stock prices of two ticker symbols over the past five years. Additionally, it generates a summary description of the stock data using one of 10 open source language models from the `langchain_community`.
+This repository contains a web application built with Flask that allows users to compare and visualize the historical stock prices of two ticker symbols over the past five years. Additionally, it generates a summary description of the stock data using one of 10 open-source language models.
+
+https://github.com/user-attachments/assets/34ee7f50-a62f-4df5-b8e1-1ead1e557500
 
 ## Features
 
