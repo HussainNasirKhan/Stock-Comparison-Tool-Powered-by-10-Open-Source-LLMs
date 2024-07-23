@@ -1,0 +1,8 @@
+yfinance
+matplotlib
+pandas
+ipykernel
+langchain
+langchain-community
+ollama
+flask
